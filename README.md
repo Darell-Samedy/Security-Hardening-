@@ -32,8 +32,6 @@ Ticket #1 - User reported that the Windows 10 VM could not access the internet. 
 
 - Reran ipconfig /all and ping 8.8.8.8 once again, no luck again
 
-![image_alt]()
-
 # Through PowerShell, I ran both:
 - netsh winsock reset
 - netsh int ip reset
