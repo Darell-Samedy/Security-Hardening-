@@ -47,7 +47,7 @@ Ticket #1 - User reported that the Windows 10 VM could not access the internet. 
 
 # 1 Final Test for connectivity, and complete.
 
-![image_alt]()
+![image_alt](https://github.com/Darell-Samedy/Windows-Troubleshooting/blob/main/Screenshot%202025-11-17%20182301.png?raw=true)
 
 
 
